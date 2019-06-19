@@ -1,6 +1,7 @@
 # AWS DeepRacer Reward Function
 
 I participated in the Kumo Torakku contest of DeepRacer Virtual Circuit.
+
 It is a reward function at that time.
 The lap time was about 25 seconds after repeated training.
 
@@ -14,7 +15,7 @@ The lap time was about 25 seconds after repeated training.
 |------------------------------|-------------|
 | Maximum steering angle       | 30 degrees  |
 | Steering angle granularity   | 7           |
-| Maximum speed                | 1 m/s       |
+| Maximum speed                | 5 m/s       |
 | Speed granularity            | 3           |
 
 ## Hyperparameters
